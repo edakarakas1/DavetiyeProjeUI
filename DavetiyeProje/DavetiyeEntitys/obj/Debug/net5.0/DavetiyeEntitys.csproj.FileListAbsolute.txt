@@ -1,0 +1,15 @@
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\bin\Debug\net5.0\DavetiyeEntitys.deps.json
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\bin\Debug\net5.0\DavetiyeEntitys.runtimeconfig.json
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\bin\Debug\net5.0\DavetiyeEntitys.runtimeconfig.dev.json
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\bin\Debug\net5.0\DavetiyeEntitys.dll
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\bin\Debug\net5.0\ref\DavetiyeEntitys.dll
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\bin\Debug\net5.0\DavetiyeEntitys.pdb
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\obj\Debug\net5.0\DavetiyeEntitys.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\obj\Debug\net5.0\DavetiyeEntitys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\obj\Debug\net5.0\DavetiyeEntitys.AssemblyInfoInputs.cache
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\obj\Debug\net5.0\DavetiyeEntitys.AssemblyInfo.cs
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\obj\Debug\net5.0\DavetiyeEntitys.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\obj\Debug\net5.0\DavetiyeEntitys.dll
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\obj\Debug\net5.0\ref\DavetiyeEntitys.dll
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\obj\Debug\net5.0\DavetiyeEntitys.pdb
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeEntitys\obj\Debug\net5.0\DavetiyeEntitys.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\bin\Debug\net5.0\DavetiyeBusiness.deps.json
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\bin\Debug\net5.0\DavetiyeBusiness.dll
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\bin\Debug\net5.0\ref\DavetiyeBusiness.dll
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\bin\Debug\net5.0\DavetiyeBusiness.pdb
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\bin\Debug\net5.0\DavetiyeDataAccess.dll
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\bin\Debug\net5.0\DavetiyeDataAccess.pdb
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\obj\Debug\net5.0\DavetiyeBusiness.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\obj\Debug\net5.0\DavetiyeBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\obj\Debug\net5.0\DavetiyeBusiness.AssemblyInfoInputs.cache
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\obj\Debug\net5.0\DavetiyeBusiness.AssemblyInfo.cs
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\obj\Debug\net5.0\DavetiyeBusiness.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\obj\Debug\net5.0\DavetiyeBusiness.csproj.CopyComplete
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\obj\Debug\net5.0\DavetiyeBusiness.dll
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\obj\Debug\net5.0\ref\DavetiyeBusiness.dll
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\obj\Debug\net5.0\DavetiyeBusiness.pdb
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\bin\Debug\net5.0\DavetiyeEntities.dll
+C:\Users\SC-303 1\source\repos\DavetiyeProje\DavetiyeBusiness\bin\Debug\net5.0\DavetiyeEntities.pdb

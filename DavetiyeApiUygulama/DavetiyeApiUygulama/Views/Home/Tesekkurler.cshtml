@@ -1,0 +1,17 @@
+﻿@model DavetiyeApiUygulama.Models.Davetiye
+@{ 
+    ViewData["Title"] = "Tesekkurler";
+}
+<h3>Teşekkürler,@Model.Ad</h3>
+<div>
+    @if (Model.KatilimaDurumu == true)
+    {
+        @:Gelmene çok sevindim :)
+        @Html.ActionLink("Katılılanlar", "GetAllDavetiye", "Home")
+    }
+    else
+    {
+        @:Gelmeyecek olana üzüldüm...
+        @Html.ActionLink("Davetliler", "Liste", "Home")
+    }
+</div>
